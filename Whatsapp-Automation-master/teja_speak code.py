@@ -2,7 +2,6 @@ import pywhatkit as kit
 import pyttsx3
 import speech_recognition as sr
 
-
 contacts = {
     "Teja"     : "+919346033005",
     "Amma"     : "+916305763747",
